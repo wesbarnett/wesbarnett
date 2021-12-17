@@ -7,3 +7,5 @@ Currently working on [Advent of Code](https://adventofcode.com) [solutions](http
 * Experience in engineering, statistics, and data science in both academic and industry settings.
 * Solving business problems through the end-to-end implementation of machine learning products.
 * Educating on machine learning techniques and applications, as well as Python.
+
+[LinkedIn](https://linkedin.com/in/wesbarnett)
