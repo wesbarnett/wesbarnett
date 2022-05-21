@@ -1,6 +1,6 @@
 ## Wes Barnett, PhD - Machine Learning Engineer
 
-_Hand-crafted, artisinal machine learning pipelines_ 👨‍🏭
+_Hand-crafted, artisinal machine learning pipelines_ 🧑🏻‍🏭
 
 ### About me
 
