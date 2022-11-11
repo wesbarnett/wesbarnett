@@ -9,3 +9,5 @@ _Hand-crafted, artisinal machine learning pipelines_ 🧑🏻‍🏭
 * Educating on machine learning techniques and applications, as well as Python.
 
 [LinkedIn](https://linkedin.com/in/wesbarnett)
+
+<a rel="me" href="https://fosstodon.org/@barnett">Mastodon</a>
