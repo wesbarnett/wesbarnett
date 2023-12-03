@@ -1,10 +1,9 @@
 ## Wes Barnett, PhD - Machine Learning Engineer
 
-_Hand-crafted, artisinal machine learning pipelines_ 🧑🏻‍🏭
+**[LinkedIn](https://linkedin.com/in/wesbarnett)**
 
 ### About me
 
-* Experience in engineering, statistics, and data science in both academic and industry settings.
-* Solving business problems through the end-to-end implementation of machine learning products using Python, SQL, Spark, Docker and other technologies.
+With over a decade of engineering, statistics, and data science experience, I lead a team of engineers in developing and supporting machine learning models related to transaction underwriting and severity management for our upmarket and mainstream segments at Capital One. I aim to solve business problems through the design and implementation of end-to-end machine learning products using Python, SQL, Spark, Docker, Kubernetes, and related technologies.
 
-**[LinkedIn](https://linkedin.com/in/wesbarnett)**
+I have a PhD in Chemical and Biomolecular Engineering from Tulane University and multiple AWS certifications. I have also published in several research journals, including a paper in Science Advances on using machine learning to design polymer membranes for gas separation. I am passionate about applying my skills and knowledge to create innovative and impactful solutions that enhance customer experience and drive business value.With over a decade of engineering, statistics, and data science experience, I lead a team of engineers in developing and supporting machine learning models related to transaction underwriting and severity management for our upmarket and mainstream segments at Capital One. I aim to solve business problems through the design and implementation of end-to-end machine learning products using Python, SQL, Spark, Docker, Kubernetes, and related technologies. I have a PhD in Chemical and Biomolecular Engineering from Tulane University and multiple AWS certifications. I have also published in several research journals, including a paper in Science Advances on using machine learning to design polymer membranes for gas separation. I am passionate about applying my skills and knowledge to create innovative and impactful solutions that enhance customer experience and drive business value.
