@@ -1,6 +1,6 @@
 ## Wes Barnett, PhD - Machine Learning Engineer
 
-**[LinkedIn](https://linkedin.com/in/wesbarnett)**
+[![linkedin](https://img.shields.io/badge/LinkedIn-wesbarnett-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesbarnett/)
 
 ### About me
 
